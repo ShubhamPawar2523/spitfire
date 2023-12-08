@@ -1,0 +1,12 @@
+.trending{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.trending h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card{
+    margin-left: 70px;
+    width: 14rem;
+}

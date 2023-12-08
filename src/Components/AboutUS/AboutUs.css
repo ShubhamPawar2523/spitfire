@@ -1,0 +1,27 @@
+#employee-p{
+    background-color: #cac3c3;
+
+}
+.flex{
+    background-color: #f1eded;
+    padding: 10px;
+}
+.float{
+    float: right;
+}
+.row-flex{
+    margin-bottom: 30px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px; 
+  }
+.card-title{
+    text-align: center;
+}
+.img{
+    align-items: center;
+}

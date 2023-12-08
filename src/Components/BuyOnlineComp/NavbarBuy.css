@@ -1,0 +1,33 @@
+.nav-color{
+    background-color: #000;
+}
+.link-color{
+    color: #fff;
+}
+.link-color:hover{
+    color: #f60838 !important;
+    transition: 0.6s;
+}
+.link-color:visited{
+    color: white !important;
+}
+#navbarScrollingDropdown{
+    color: #fff;
+    text-decoration: none;
+}
+
+.search-btn{
+    background-color: #f60838;
+    color: #fff;
+}
+.search-btn:hover{
+    background-color: #fff;
+    color: #f60838;
+    border-color:#f60838;
+    border-width: 3px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+#nav-dropdown{
+    color: #fff;
+}
